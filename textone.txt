@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is my day one.
 I am from usa
 I WILL JOINT PSD AT DECEMBER 
+=======
+I am number Y
+I am 28 years old
+>>>>>>> 7b68a4aaa5b0edc5cc27bf5228d16477839c4436
